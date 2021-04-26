@@ -16,8 +16,8 @@ json web token, 一般用于用户认证(前后端分离、微信小程序、app
   ~~~
   
 
-![普通token认证](./pictures/普通token认证.png)
-
+![普通token认证](https://github.com/chenhongyang0714/DjangoStudy/raw/master/Django/JWT/pictures/普通token认证.png)
+![普通token认证](https://github.com/chenhongyang0714/DjangoStudy/blob/main/Django/JWT/pictures/%E6%99%AE%E9%80%9Atoken%E8%AE%A4%E8%AF%81.png)
 * jwt 
 
   ~~~
